@@ -149,23 +149,46 @@ Key elements:
 
 ---
 
-## 💡 Key Insights
+## 📊 Key Business Insights
 
-The following observations are taken from the supplied dashboard screenshots. Values may change when report filters or dynamic metric selections are changed.
+The analysis of the Global Superstore dataset reveals the following business insights across sales performance, profitability, customer behaviour, geographical distribution, product performance and operational efficiency.
 
-| Area | Dashboard observation |
-|---|---|
-| **Overall performance** | The main dashboard displays approximately **51K orders**, **12.64M total sales**, **1.47M total profit**, **246.49 average sales** and **28.68 average profit**. |
-| **Profitability** | Displayed total profit is approximately **1.47M** against **12.64M sales**. |
-| **Top cities** | In the displayed Top 10 sales-by-city view, **New York City** leads at approximately **256K**, followed by **Los Angeles (176K)** and **Manila (121K)**. |
-| **Market contribution** | In the displayed Total Quantity contribution-by-market view, **APAC contributes 23.12%**, followed by LATAM (21.61%), US (21.24%) and EU (21.18%). |
-| **Category performance** | The detailed view displays average profit of **65.54 for Technology**, **29.02 for Furniture** and **16.61 for Office Supplies**. |
-| **Annual growth** | The Business Insights page identifies **2022** as the highest Sales YoY growth year at **39.64%**, and **2025** as the lowest at **-87.80%**. |
-| **Quarterly growth** | The additional quarterly view displays Sales YoY growth of **191.52% in 2021-Q2**. |
-| **Loss-making products** | The additional product-profit view highlights **Cubify CubeX 3D Printer Double Head Print** with displayed profit of approximately **-8,879.97**. |
+### 1. Overall Business Performance
+- The business recorded approximately **12.64M in total sales**, **1.47M in total profit** and **51K orders**.
+- The average sales value was **246.49**, while average profit was **28.68**, providing an overview of the overall transaction performance.
 
-> These are screenshot-based observations, not universal results for every filter selection. The selected metric and attribute matter when interpreting contribution and Top N visuals.
+### 2. Market and Geographical Performance
+- **APAC** recorded the highest Total Profit Contribution at **29.73%**, followed by EU at **25.39%** and US at **19.51%**.
+- The **United States** leads country-wise sales with approximately **2.30M**, followed by Australia at **0.93M** and France at **0.86M**.
+- **New York City** is the highest-performing city, generating approximately **256K in sales**, followed by Los Angeles at **176K**.
+- APAC also recorded the highest Average Sales value at approximately **326**, while EMEA recorded the lowest at approximately **160**.
 
+### 3. Product and Category Performance
+- **Technology** is the leading product category, generating approximately **4.7M in sales**, followed by Furniture at **4.1M** and Office Supplies at **3.8M**.
+- Technology also recorded the highest average profit at **65.54**, compared with Furniture at **29.02** and Office Supplies at **16.61**.
+- **Apple Smart Phone, Full Size** leads the displayed product ranking with approximately **87K in sales**, followed by Cisco and Motorola smartphones.
+- The Average Sales Contribution analysis shows Technology at **189.81%** and Furniture at **168.87%**, while Office Supplies records **49.13%**.
+
+### 4. Customer and Order Priority Analysis
+- The **Consumer segment** contributes the highest share of total profit at **51.06%**, followed by Corporate at **30.08%** and Home Office at **18.86%**.
+- Medium-priority orders account for **58.88% of total profit contribution** and **74.63% of total quantity contribution**.
+- Among the displayed customer rankings, **Tom Ashbrook** leads with approximately **40K in sales**, followed by Tamara Chand at **37K** and Greg Tran at **36K**.
+
+### 5. Shipping and Operational Performance
+- **Standard Class** dominates shipping performance, contributing approximately **60% of total sales** and **60% of total profit**.
+- Technology records the highest shipping cost at approximately **0.51M**, followed by Furniture at **0.44M** and Office Supplies at **0.41M**.
+- Discount values vary across half-year periods, with the highest displayed discount of approximately **6.9K in 2021-H1**.
+
+### 6. Sales and Profit Trend Analysis
+- Profit recorded strong year-over-year growth of **39.78% in 2022**, followed by a significant decline of **50.69% in 2023**.
+- Profit recovered in 2024, recording positive year-over-year growth of **23.65%**.
+- Orders followed a similar pattern, growing by **40.01% in 2022**, declining by **48.67% in 2023**, and recovering by **21.83% in 2024**.
+- Monthly and quarterly trend analysis reveals considerable fluctuations in sales, profit, orders and shipping costs, highlighting the importance of monitoring business performance across different time periods.
+
+### Overall Business Takeaway
+The analysis highlights Technology as the leading sales and profitability category, APAC as the strongest market in profit contribution, the Consumer segment as the largest contributor to profitability, and Standard Class as the dominant shipping mode. The significant decline in 2023 followed by recovery in 2024 also demonstrates the importance of continuous sales and profitability monitoring.
+
+*Note: Numerical findings represent the values displayed in the dashboard. Top N rankings and contribution metrics may vary depending on the selected dashboard attributes, measures and filters.*
 ---
 
 ## 🗄️ Dataset
