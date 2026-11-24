@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 E-Commerece Sales Analysis
+# 🌍 E-Commerce Sales Analysis
 
 ### An interactive Power BI dashboard for analysing global sales, profitability, customer and product performance.
 
@@ -302,7 +302,7 @@ The SQL script is organized into 15 business analysis sections:
 ## 📁 Repository Structure
 
 ```text
-global-superstore-sales-analysis/
+E-Commerce-sales-analysis/
 │
 ├── README.md
 ├── .gitignore
@@ -311,7 +311,7 @@ global-superstore-sales-analysis/
 │   └── GSS_Business_Analysis_Queries.sql
 │
 ├── PowerBI/
-│   └── GSS_Sales_Analysis.pbix
+│   └── E-COMMERECE SALES ANALYSIS.pbix
 │
 ├── data/
 │   └── Global_Superstore_Raw_Data.xlsx
@@ -339,7 +339,7 @@ global-superstore-sales-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/global-superstore-sales-analysis.git
+git clone https://github.com/boyinaviswanth/E-Commerce_Sales_Analysis
 cd global-superstore-sales-analysis
 ```
 
@@ -365,8 +365,8 @@ Open `PowerBI/GSS_Sales_Analysis.pbix` using Power BI Desktop. If the source fil
 
 **Viswanth Boyina**
 
-- GitHub: [GitHub profile](https://github.com/)
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/)
+- GitHub: https://github.com/boyinaviswanth
+- LinkedIn:https://www.linkedin.com/in/boyinaviswanth/
 
 ---
 
