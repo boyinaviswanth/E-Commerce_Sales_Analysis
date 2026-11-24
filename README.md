@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 Global Superstore Sales Analysis
+# 🌍 E-Commerece Sales Analysis
 
 ### An interactive Power BI dashboard for analysing global sales, profitability, customer and product performance.
 
@@ -146,11 +146,6 @@ Key elements:
 
 ![Business Insights and Summary](assets/screenshots/06_business_insights_summary.png)
 
-### Additional Analysis View
-
-The following screenshot captures a quarterly sales growth comparison and a product-profit table highlighting loss-making products.
-
-![Quarterly Growth and Loss-Making Products](assets/screenshots/07_quarterly_growth_and_loss_products.png)
 
 ---
 
@@ -306,12 +301,10 @@ global-superstore-sales-analysis/
 │       ├── 04_contribution_performance_analysis.png
 │       ├── 05_detailed_transaction_analysis.png
 │       ├── 06_business_insights_summary.png
-│       └── 07_quarterly_growth_and_loss_products.png
+│
 │
 └── docs/
-    ├── business_questions.md
     ├── data_dictionary.md
-    ├── key_insights.md
     ├── kpi_definitions.md
     └── sql_excel_column_mapping.md
 ```
@@ -349,8 +342,8 @@ Open `PowerBI/GSS_Sales_Analysis.pbix` using Power BI Desktop. If the source fil
 
 **Viswanth Boyina**
 
-- GitHub: [Add your GitHub profile URL](https://github.com/)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- GitHub: [GitHub profile](https://github.com/)
+- LinkedIn: [LinkedIn profile](https://www.linkedin.com/)
 
 ---
 
