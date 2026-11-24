@@ -149,46 +149,27 @@ Key elements:
 
 ---
 
-## 📊 Key Business Insights
+## 💡 Key Business Insights
 
-The analysis of the Global Superstore dataset reveals the following business insights across sales performance, profitability, customer behaviour, geographical distribution, product performance and operational efficiency.
+The following insights were identified through the analysis of sales, profitability, customer behaviour, geographical performance and operational metrics using the interactive Power BI dashboard.
 
-### 1. Overall Business Performance
-- The business recorded approximately **12.64M in total sales**, **1.47M in total profit** and **51K orders**.
-- The average sales value was **246.49**, while average profit was **28.68**, providing an overview of the overall transaction performance.
+| Analysis Area | Key Insight |
+|---|---|
+| **Overall Performance** | The business generated **12.64M in sales**, **1.47M in profit** and approximately **51K orders**, with average sales of **246.49** and average profit of **28.68**. |
+| **Top Markets** | **APAC** recorded the highest Total Profit Contribution at **29.73%**, followed by EU (25.39%) and US (19.51%). |
+| **Top Countries** | The **United States** leads country-wise sales with **2.30M**, followed by Australia (0.93M) and France (0.86M). |
+| **Top Cities** | **New York City** leads city-wise sales with approximately **256K**, followed by Los Angeles (176K) and Manila (121K). |
+| **Product Categories** | **Technology** leads category-wise sales with **4.7M** and has the highest average profit (65.54), followed by Furniture and Office Supplies. |
+| **Top Products** | **Apple Smart Phone, Full Size** leads the displayed product ranking with approximately **87K in sales**, followed by Cisco and Motorola smartphones. |
+| **Customer Segments** | The **Consumer segment** contributes the highest share of total profit (51.06%), followed by Corporate (30.08%) and Home Office (18.86%). |
+| **Order Priority** | Medium-priority orders account for **58.88% of total profit contribution** and **74.63% of total quantity contribution**. |
+| **Shipping Mode** | **Standard Class** dominates shipping performance, contributing approximately **60% of total sales** and **60% of total profit**. |
+| **Regional Performance** | The Central region leads the displayed regional comparisons, recording the highest Average Sales contribution value (23.42%) and Total Sales contribution (21.20%). |
+| **Sales & Profit Trends** | Profit grew by **39.78% in 2022**, declined by **50.69% in 2023**, and recovered by **23.65% in 2024**. |
+| **Order Trends** | Orders grew by **40.01% in 2022**, declined by **48.67% in 2023**, and recovered by **21.83% in 2024**. |
+| **Discount Analysis** | The highest displayed half-year discount value was approximately **6.9K in 2021-H1**, indicating variation in discount levels across periods. |
 
-### 2. Market and Geographical Performance
-- **APAC** recorded the highest Total Profit Contribution at **29.73%**, followed by EU at **25.39%** and US at **19.51%**.
-- The **United States** leads country-wise sales with approximately **2.30M**, followed by Australia at **0.93M** and France at **0.86M**.
-- **New York City** is the highest-performing city, generating approximately **256K in sales**, followed by Los Angeles at **176K**.
-- APAC also recorded the highest Average Sales value at approximately **326**, while EMEA recorded the lowest at approximately **160**.
-
-### 3. Product and Category Performance
-- **Technology** is the leading product category, generating approximately **4.7M in sales**, followed by Furniture at **4.1M** and Office Supplies at **3.8M**.
-- Technology also recorded the highest average profit at **65.54**, compared with Furniture at **29.02** and Office Supplies at **16.61**.
-- **Apple Smart Phone, Full Size** leads the displayed product ranking with approximately **87K in sales**, followed by Cisco and Motorola smartphones.
-- The Average Sales Contribution analysis shows Technology at **189.81%** and Furniture at **168.87%**, while Office Supplies records **49.13%**.
-
-### 4. Customer and Order Priority Analysis
-- The **Consumer segment** contributes the highest share of total profit at **51.06%**, followed by Corporate at **30.08%** and Home Office at **18.86%**.
-- Medium-priority orders account for **58.88% of total profit contribution** and **74.63% of total quantity contribution**.
-- Among the displayed customer rankings, **Tom Ashbrook** leads with approximately **40K in sales**, followed by Tamara Chand at **37K** and Greg Tran at **36K**.
-
-### 5. Shipping and Operational Performance
-- **Standard Class** dominates shipping performance, contributing approximately **60% of total sales** and **60% of total profit**.
-- Technology records the highest shipping cost at approximately **0.51M**, followed by Furniture at **0.44M** and Office Supplies at **0.41M**.
-- Discount values vary across half-year periods, with the highest displayed discount of approximately **6.9K in 2021-H1**.
-
-### 6. Sales and Profit Trend Analysis
-- Profit recorded strong year-over-year growth of **39.78% in 2022**, followed by a significant decline of **50.69% in 2023**.
-- Profit recovered in 2024, recording positive year-over-year growth of **23.65%**.
-- Orders followed a similar pattern, growing by **40.01% in 2022**, declining by **48.67% in 2023**, and recovering by **21.83% in 2024**.
-- Monthly and quarterly trend analysis reveals considerable fluctuations in sales, profit, orders and shipping costs, highlighting the importance of monitoring business performance across different time periods.
-
-### Overall Business Takeaway
-The analysis highlights Technology as the leading sales and profitability category, APAC as the strongest market in profit contribution, the Consumer segment as the largest contributor to profitability, and Standard Class as the dominant shipping mode. The significant decline in 2023 followed by recovery in 2024 also demonstrates the importance of continuous sales and profitability monitoring.
-
-*Note: Numerical findings represent the values displayed in the dashboard. Top N rankings and contribution metrics may vary depending on the selected dashboard attributes, measures and filters.*
+*Note: Values represent the displayed dashboard results and may vary depending on selected filters, metrics and attributes.*
 ---
 
 ## 🗄️ Dataset
@@ -339,8 +320,8 @@ E-Commerce-sales-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/boyinaviswanth/E-Commerce_Sales_Analysis
-cd global-superstore-sales-analysis
+git clone https://github.com/boyinaviswanth/E-Commerce_Sales_Analysis.git
+cd E-Commerce_Sales_Analysis
 ```
 
 ### 2. Explore the dataset
@@ -365,9 +346,8 @@ Open `PowerBI/GSS_Sales_Analysis.pbix` using Power BI Desktop. If the source fil
 
 **Viswanth Boyina**
 
-- GitHub: https://github.com/boyinaviswanth
-- LinkedIn:https://www.linkedin.com/in/boyinaviswanth/
-
+- GitHub: [boyinaviswanth](https://github.com/boyinaviswanth)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/boyinaviswanth/)
 ---
 
 <div align="center">
