@@ -1,0 +1,18 @@
+# Windows / macOS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+~$*
+
+# Power BI temporary files
+*.pbix.autosave
+
+# SQL backups
+*.trn
+
+# Editor settings
+.vscode/
