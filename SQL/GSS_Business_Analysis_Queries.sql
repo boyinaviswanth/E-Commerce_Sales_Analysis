@@ -1,5 +1,5 @@
 /*
-PROJECT: GLOBAL SUPERSTORE SALES ANALYSIS
+PROJECT: E-COMMERECE SALES ANALYSIS
 PURPOSE: Business-focused SQL analysis for the GSS Power BI project
 DATABASE: SQL Server
 SOURCE TABLE: dbo.GlobalSuperStore
